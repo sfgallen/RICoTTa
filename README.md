@@ -1,6 +1,6 @@
 # RICoTTa
  
-### **R**iver **I**nversion using **Co**smogenic Radionuclude, Marine **T**errace, and Low-Temperature **T**hermochonological Data **a**t the Catchment-Scale Model
+### **R**iver **I**nversion Model using **Co**smogenic Radionuclude, Marine **T**errace, and Low-Temperature **T**hermochonological Dat**a**
 
 
 This series of codes takes a suite of data sets (i.e., longitudinal river profiles, cosmogenic radionuclide concentrations, marine terrace rock uplift calculations, and low-temperature thermochronometric ages) and uses a Bayesian inversion to constrain rock uplift histories and parameters in the detachment-limited stream power model.
@@ -12,3 +12,7 @@ The three example scripts provided will run an abbreviated simulation using the 
 If you use these codes of modified versions of these codes for scientific research, please cite Glotzbach (2015) and Gallen et al. (2023).
 
 References:
+
+Glotzbach, C., 2015. Deriving rock uplift histories from data-driven inversion of river profiles: Geology, 43(6), pp.467-470.
+
+Gallen, S.F., Seymour, N.M., Glotzbach, C., Stockli, D.F., O'Sullivan, P., accepted, Slab-mantle interactions control forearc uplift during subduction retreat: Nature Geoscience.
