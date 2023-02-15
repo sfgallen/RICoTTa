@@ -1,6 +1,6 @@
 # RICoTTa
  
-# **R**iver **I**nversion using **Co**smogenic Radionuclude, Marine **T**errace, and Low-Temperature **T**hermochonological Data **a**t the Catchment-Scale Model
+## **R**iver **I**nversion using **Co**smogenic Radionuclude, Marine **T**errace, and Low-Temperature **T**hermochonological Data **a**t the Catchment-Scale Model
 
 
 This series of codes takes a suite of data sets (i.e., longitudinal river profiles, cosmogenic radionuclide concentrations, marine terrace rock uplift calculations, and low-temperature thermochronometric ages) and uses a Bayesian inversion to constrain rock uplift histories and parameters in the detachment-limited stream power model.
