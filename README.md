@@ -11,19 +11,20 @@ The three example scripts provided will run an abbreviated simulation using the 
 
 ## Disclaimer:
 
-We strongly recommend that only expert Matlab users deeply familiar with the forward and inverse models used in this software modify the codes provided. We make this disclaimer because it is fairly easy to make mistakes that will inhibit the usefulness of the model results.
+We _strongly_ recommend that only expert Matlab users deeply familiar with the forward and inverse models used in this software modify the codes provided. We make this disclaimer because it is fairly easy to make mistakes that will inhibit the usefulness of the model results.
 
-Furthermore, before attempting to apply these codes to another study area, it is important to make sure that a number of assumption in the natural setting are met. These assumptions include, but are not limited to:
+### Furthermore, before attempting to apply these codes to another study area, it is important to make sure that a number of assumptions in the natural setting are met. These assumptions include, but are not limited to:
 
--	The catchment is an erosional, fluvially-dominated, bedrock system (i.e., no deposition, no evidence of past glaciation, no alluvial rivers).
--	The catchment network has no obvious evidence of recent reorganization or unstable drainage divides (e.g., no evidence of recent river capture, no strongly asymmetric catchment divides).
+-	The catchment is an erosional, fluvially-dominated, bedrock system (i.e., no deposition, no evidence of past glaciation, and no alluvial rivers).
+-	The catchment network has no obvious evidence of recent reorganization or unstable drainage divides (e.g., no evidence of recent river capture and no strongly asymmetric catchment divides).
 -	Erodibility is relatively uniform throughout the catchment (i.e., roughly uniform rock type, no strong precipitation gradients).
--	Rock uplift appears spatially uniform (i.e. no evidence of local or regional tilting, no active faults cutting the catchment).
+-	Rock uplift appears spatially uniform (i.e., no evidence of local or regional tilting and no active faults cutting the catchment).
 -	The uplift and exhumation history can reasonably be approximated at vertical only (i.e., not significantly horizontal tectonic velocities).
 -	The catchments are not too large (no firm size threshold, but the larger the basin, the more likely the assumptions will be violated).
--	The outlet location fixed with time.
+-	The outlet location is fixed with time.
 
 Note that this is not a comprehensive list, but these are some of the assumptions that must be met for this code to be meaningfully applied to a given catchment.
+
 
 ### If you use these codes of modified versions of these codes for scientific research, please cite Glotzbach (2015) and Gallen et al. (2023).
 
