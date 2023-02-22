@@ -29,9 +29,13 @@ Note that this is not a comprehensive list, but these are some of the assumption
 
 ### References:
 
-Gallen, S.F., Seymour, N.M., Glotzbach, C., Stockli, D.F., O'Sullivan, P., accepted, Calabrian forearc uplift paced by slab-mantle interactions during subduction retreat: Nature Geoscience.
+Gallen, S.F., Seymour, N.M., Glotzbach, C., Stockli, D.F., O'Sullivan, P., _accepted_, Calabrian forearc uplift paced by slab-mantle interactions during subduction retreat: Nature Geoscience.
+
 Gallen, S.F. and Fernández-Blanco, D., 2021, A New Data-driven Bayesian Inversion of Fluvial Topography Clarifies the Tectonic History of the Corinth Rift and Reveals a Channel Steepness Threshold: JGR-Earth Surface, v. 126, p. e2020JF005651. https://doi.org/10.1029/2020JF005651.
+
 Gallen, S.F. and Wegmann, K.W., 2017, River profile response to fault growth and linkage: An example from the Hellenic forearc, south-central Crete, Greece: Earth Surface Dynamics, v. 5, p. 161-186. https://doi.org/10.5194/esurf-5-161-2017/
+
 Schwanghart, W. and Scherler, D., 2014. TopoToolbox 2–MATLAB-based software for topographic analysis and modeling in Earth surface sciences. Earth Surface Dynamics, 2(1), pp.1-7. https://doi.org/10.5194/esurf-2-1-2014
+
 Glotzbach, C., 2015. Deriving rock uplift histories from data-driven inversion of river profiles: Geology, 43(6), pp.467-470. https://doi.org/10.1130/G36702.1
 
