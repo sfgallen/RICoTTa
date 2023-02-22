@@ -25,6 +25,7 @@ We _strongly_ recommend that only expert Matlab users deeply familiar with the f
 
 Note that this is not a comprehensive list, but these are some of the assumptions that must be met for this code to be meaningfully applied to a given catchment.
 
+For an example of working through a list of assumptions in conducting similar catchment-scale inversions, please see Gallen and Fernández-Blanco (2021).
 
 ### If you use these codes of modified versions of these codes for scientific research, please cite Glotzbach (2015) and Gallen et al. (2023).
 
