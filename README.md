@@ -20,7 +20,7 @@ We _strongly_ recommend that only expert Matlab users deeply familiar with the f
 -	The catchment network has no obvious evidence of recent reorganization or unstable drainage divides (e.g., no evidence of recent river capture or strongly asymmetric drainage divides).
 -	Erodibility is relatively uniform throughout the catchment (i.e., roughly uniform rock type, no strong precipitation gradients).
 -	Rock uplift appears spatially uniform (i.e., no evidence of local or regional tilting and no active faults cutting the catchment).
--	The uplift and exhumation history can reasonably be approximated as one-dimentionsal in the vertical direction (i.e., no significantly horizontal tectonic velocities).
+-	The uplift and exhumation history can reasonably be approximated as one-dimentionsal in the vertical direction (i.e., no significant horizontal tectonic velocities).
 -	The catchments are not too large (no firm size threshold, but the larger the basin, the more likely the assumptions will be violated).
 -	The outlet location is fixed with time.
 
