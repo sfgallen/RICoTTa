@@ -28,7 +28,7 @@ Note that this is not a comprehensive list, but these are some of the assumption
 
 For an example of working through a list of assumptions in conducting similar catchment-scale inversions, please see Gallen and Fernández-Blanco (2021).
 
-### If you use these codes of modified versions of these codes for scientific research, cite Glotzbach (2015) and Gallen et al. (2023).
+### If you use these codes of modified versions of these codes for scientific research, cite Glotzbach (2015) and Gallen et al. (2023). The code is also citable as a Zenodo repositry as Gallen and Glotzbach, 2023, RICoTTA v1.0, http://doi.org/10.5281/zenodo.7671209.
 
 ### References:
 
