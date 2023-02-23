@@ -2,6 +2,8 @@
  
 ### ***R***iver ***I***nversion Model using ***Co***smogenic Radionuclide, Marine ***T***errace, and Low-Temperature ***T***hermochronological  Dat***a***
 
+Sean F. Gallen and Christoph Glotzbach
+
 [![DOI](https://zenodo.org/badge/601847671.svg)](https://zenodo.org/badge/latestdoi/601847671)
 
 This series of codes takes a suite of data sets (i.e., longitudinal river profiles, cosmogenic radionuclide concentrations, marine terrace rock uplift calculations, and low-temperature thermochronometric ages) and uses a Bayesian inversion to constrain rock uplift histories and parameters in the detachment-limited stream power model.
