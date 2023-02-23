@@ -16,10 +16,10 @@ We _strongly_ recommend that only expert Matlab users deeply familiar with the f
 ### Furthermore, before attempting to apply these codes to another study area, it is important to make sure that a number of assumptions in the natural setting are met. These assumptions include, but are not limited to:
 
 -	The catchment is an erosional, fluvially-dominated, bedrock system (i.e., no deposition, no evidence of past glaciation, and no alluvial rivers).
--	The catchment network has no obvious evidence of recent reorganization or unstable drainage divides (e.g., no evidence of recent river capture and no strongly asymmetric catchment divides).
+-	The catchment network has no obvious evidence of recent reorganization or unstable drainage divides (e.g., no evidence of recent river capture or strongly asymmetric drainage divides).
 -	Erodibility is relatively uniform throughout the catchment (i.e., roughly uniform rock type, no strong precipitation gradients).
 -	Rock uplift appears spatially uniform (i.e., no evidence of local or regional tilting and no active faults cutting the catchment).
--	The uplift and exhumation history can reasonably be approximated at vertical only (i.e., not significantly horizontal tectonic velocities).
+-	The uplift and exhumation history can reasonably be approximated as one-dimentionsal in the vertical direction (i.e., no significantly horizontal tectonic velocities).
 -	The catchments are not too large (no firm size threshold, but the larger the basin, the more likely the assumptions will be violated).
 -	The outlet location is fixed with time.
 
@@ -27,7 +27,7 @@ Note that this is not a comprehensive list, but these are some of the assumption
 
 For an example of working through a list of assumptions in conducting similar catchment-scale inversions, please see Gallen and Fernández-Blanco (2021).
 
-### If you use these codes of modified versions of these codes for scientific research, please cite Glotzbach (2015) and Gallen et al. (2023).
+### If you use these codes of modified versions of these codes for scientific research, cite Glotzbach (2015) and Gallen et al. (2023).
 
 ### References:
 
