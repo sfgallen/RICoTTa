@@ -34,7 +34,7 @@ For an example of working through a list of assumptions in conducting similar ca
 
 ### References:
 
-Gallen, S.F., Seymour, N.M., Glotzbach, C., Stockli, D.F., O'Sullivan, P., 2023, Calabrian forearc uplift paced by slab-mantle interactions during subduction retreat: Nature Geoscience. https://doi.org/10.1038/s41561-023-01185-4
+Gallen, S.F., Seymour, N.M., Glotzbach, C., Stockli, D.F., O'Sullivan, P., 2023, Calabrian forearc uplift paced by slab-mantle interactions during subduction retreat: Nature Geoscience. https://doi.org/10.1038/s41561-023-01185-4 [(sharable link)](https://www.nature.com/articles/s41561-023-01185-4.epdf?sharing_token=cUndeiE7cI_pxQl6mm6xw9RgN0jAjWel9jnR3ZoTv0MXXmnKW20hstFlf9RUN0dAlQ-mdFI-LQlolNQ8DDbBO3ZvsNdISfbWrTXLmDzEedYwcfh3FYRP_spcgedCPRZaujT-moiF_qvb2L32lOwciutuDgCH2OcGXZNJZquSkDc%3D)
 
 Gallen, S.F. and Fernández-Blanco, D., 2021, A New Data-driven Bayesian Inversion of Fluvial Topography Clarifies the Tectonic History of the Corinth Rift and Reveals a Channel Steepness Threshold: JGR-Earth Surface, v. 126, p. e2020JF005651. https://doi.org/10.1029/2020JF005651.
 
